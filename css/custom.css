@@ -14,5 +14,5 @@
 
   .border-fill {
     border-image: fill 0
-    linear-gradient(#0001 30%,#000); /* your gradient here */
+    linear-gradient(#0001 60%,#000); /* your gradient here */
 }
